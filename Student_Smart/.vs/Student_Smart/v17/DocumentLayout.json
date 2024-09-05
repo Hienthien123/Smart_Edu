@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\student_smart\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|solutionrelative:student_smart\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1EE8D-DA82-451A-A454-C3A6EB961FF2}|Services\\Services.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1EE8D-DA82-451A-A454-C3A6EB961FF2}|Services\\Services.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1EE8D-DA82-451A-A454-C3A6EB961FF2}|Services\\Services.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1EE8D-DA82-451A-A454-C3A6EB961FF2}|Services\\Services.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A139607-A071-42F0-9E21-DE2ED32AC17F}|Repositories\\Repositories.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A139607-A071-42F0-9E21-DE2ED32AC17F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\student_smart\\controllers\\updatefilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|solutionrelative:student_smart\\controllers\\updatefilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\student_smart\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|solutionrelative:student_smart\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\database\\model\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|solutionrelative:database\\model\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\database\\model\\updatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|solutionrelative:database\\model\\updatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\database\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|solutionrelative:database\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\core\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|solutionrelative:core\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1EE8D-DA82-451A-A454-C3A6EB961FF2}|Services\\Services.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\services\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1EE8D-DA82-451A-A454-C3A6EB961FF2}|Services\\Services.csproj|solutionrelative:services\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\database\\webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|solutionrelative:database\\webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\student_smart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|solutionrelative:student_smart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\student_smart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|solutionrelative:student_smart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\student_smart\\student_smart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|solutionrelative:student_smart\\student_smart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1EE8D-DA82-451A-A454-C3A6EB961FF2}|Services\\Services.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\services\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1EE8D-DA82-451A-A454-C3A6EB961FF2}|Services\\Services.csproj|solutionrelative:services\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A139607-A071-42F0-9E21-DE2ED32AC17F}|Repositories\\Repositories.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A139607-A071-42F0-9E21-DE2ED32AC17F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\core\\helpers\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|solutionrelative:core\\helpers\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\core\\domains\\paginationsetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFFF14B-CC24-416E-BA0F-649632F444A8}|Core\\Core.csproj|solutionrelative:core\\domains\\paginationsetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\student_smart\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{662C4351-E384-4819-A97B-6B064D03D76F}|Student_Smart\\Student_Smart.csproj|solutionrelative:student_smart\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|c:\\users\\admin\\music\\project_student\\student_smart\\database\\migrations\\20240904023354_data_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9124CB5A-7A13-49D7-B71C-042682C9B1A4}|Database\\Database.csproj|solutionrelative:database\\migrations\\20240904023354_data_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Database\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\Model\\Employee.cs",
+              "RelativeToolTip": "Database\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:14:13.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateFile.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\Model\\UpdateFile.cs",
+              "RelativeDocumentMoniker": "Database\\Model\\UpdateFile.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\Model\\UpdateFile.cs",
+              "RelativeToolTip": "Database\\Model\\UpdateFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:53:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\Model\\Common.cs",
+              "RelativeDocumentMoniker": "Database\\Model\\Common.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\Model\\Common.cs",
+              "RelativeToolTip": "Database\\Model\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:46:11.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:50:36.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Student_Smart\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Student_Smart\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:53:55.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Student_Smart\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Student_Smart\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAnwHkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:05:22.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAywD4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:59:59.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Services\\LoginService.cs",
+              "RelativeToolTip": "Services\\LoginService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:48:44.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Helpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Pagination.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Helpers\\Pagination.cs",
+              "RelativeToolTip": "Core\\Helpers\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:34:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateFileController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Controllers\\UpdateFileController.cs",
+              "RelativeDocumentMoniker": "Student_Smart\\Controllers\\UpdateFileController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Controllers\\UpdateFileController.cs",
+              "RelativeToolTip": "Student_Smart\\Controllers\\UpdateFileController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:56:52.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Services\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Services\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:45:15.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\appsettings.json",
+              "RelativeDocumentMoniker": "Student_Smart\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\appsettings.json",
+              "RelativeToolTip": "Student_Smart\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T02:23:18.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\WebApiContext.cs",
+              "RelativeDocumentMoniker": "Database\\WebApiContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\WebApiContext.cs",
+              "RelativeToolTip": "Database\\WebApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:07:09.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Smart\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Program.cs",
+              "RelativeToolTip": "Student_Smart\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:29:20.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student_Smart.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Student_Smart.csproj",
+              "RelativeDocumentMoniker": "Student_Smart\\Student_Smart.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Student_Smart.csproj",
+              "RelativeToolTip": "Student_Smart\\Student_Smart.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T07:36:08.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Services\\MappingProfile\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\MappingProfile\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Services\\MappingProfile\\MappingProfile.cs",
+              "RelativeToolTip": "Services\\MappingProfile\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:40:36.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T07:57:46.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Helpers\\PageResult.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\PageResult.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Helpers\\PageResult.cs",
+              "RelativeToolTip": "Core\\Helpers\\PageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:33:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:06:29.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T07:35:59.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaginationSetModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Domains\\PaginationSetModel.cs",
+              "RelativeDocumentMoniker": "Core\\Domains\\PaginationSetModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Core\\Domains\\PaginationSetModel.cs",
+              "RelativeToolTip": "Core\\Domains\\PaginationSetModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:06:51.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Dockerfile",
+              "RelativeDocumentMoniker": "Student_Smart\\Dockerfile",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\Dockerfile",
+              "RelativeToolTip": "Student_Smart\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T06:48:21.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240904023354_Data_test.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\Migrations\\20240904023354_Data_test.cs",
+              "RelativeDocumentMoniker": "Database\\Migrations\\20240904023354_Data_test.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Database\\Migrations\\20240904023354_Data_test.cs",
+              "RelativeToolTip": "Database\\Migrations\\20240904023354_Data_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:33:55.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

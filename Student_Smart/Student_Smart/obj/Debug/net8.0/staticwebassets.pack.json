@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\wwwroot\\uploads\\1.png",
+      "PackagePath": "staticwebassets\\uploads\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\wwwroot\\uploads\\2.png",
+      "PackagePath": "staticwebassets\\uploads\\2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Student_Smart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Student_Smart.props",
+      "PackagePath": "build\\Student_Smart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Student_Smart.props",
+      "PackagePath": "buildMultiTargeting\\Student_Smart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Student_Smart.props",
+      "PackagePath": "buildTransitive\\Student_Smart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

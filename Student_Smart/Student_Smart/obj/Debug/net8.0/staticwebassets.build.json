@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "n+0V6QOKvkrLKE9gXEIUKIPEkL0Zu/KUp78/Tw/3ksk=",
+  "Source": "Student_Smart",
+  "BasePath": "_content/Student_Smart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Student_Smart\\wwwroot",
+      "Source": "Student_Smart",
+      "ContentRoot": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\wwwroot\\",
+      "BasePath": "_content/Student_Smart",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\wwwroot\\uploads\\1.png",
+      "SourceId": "Student_Smart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\wwwroot\\",
+      "BasePath": "_content/Student_Smart",
+      "RelativePath": "uploads/1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\wwwroot\\uploads\\2.png",
+      "SourceId": "Student_Smart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Music\\Project_Student\\Student_Smart\\Student_Smart\\wwwroot\\",
+      "BasePath": "_content/Student_Smart",
+      "RelativePath": "uploads/2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2.png"
+    }
+  ]
+}
